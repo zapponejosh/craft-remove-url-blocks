@@ -1,0 +1,10 @@
+{
+  "id": "do.craft.template.remove-url-blocks",
+  "name": "Remove URL Blocks",
+  "fileName": "remove-url-blocks",
+  "author": "Josh Zappone",
+  "author-email": "https://github.com/zapponejosh",
+  "description": "Replaces URL blocks with simple text block links",
+  "api": "0.1.0",
+  "main": "index.html"
+}
